@@ -1,0 +1,6 @@
+﻿  Ex18.cpp
+C:\Users\user\source\repos\OopEx18\OopEx18\Ingredient.h(67,16): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+C:\Users\user\source\repos\OopEx18\OopEx18\Meal.h(55,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx18\OopEx18\Meal.h(65,19): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\user\source\repos\OopEx18\OopEx18\Meal.h(76,24): warning C4018: '<': signed/unsigned mismatch
+  OopEx18.vcxproj -> C:\Users\user\source\repos\OopEx18\Debug\OopEx18.exe
